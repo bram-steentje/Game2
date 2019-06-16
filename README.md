@@ -7,6 +7,7 @@ Elk karakter heeft zijn eige vaardigeheden. Vervolgens kom je in een arena waar 
 Het karakter dat als eerst al zijn leven kwijt is heeft verloren.
 
 Ik heb deze game gemaakt uit persoonlijke interessen en om mij leerdoelen aan te kunnen tonen.
+Dit is mijn grootste project tot nu toe.
 
 ---
 
